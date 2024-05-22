@@ -1,0 +1,42 @@
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.exe
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.deps.json
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.runtimeconfig.json
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.dll
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.pdb
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfoInputs.cache
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfo.cs
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.dll
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\refint\Ajedrez.dll
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.pdb
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.genruntimeconfig.cache
+C:\Users\Valle\OneDrive\Documents\URL\Ajedrez\Ajedrez\obj\Debug\net8.0\ref\Ajedrez.dll
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.exe
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.deps.json
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.runtimeconfig.json
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.dll
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\bin\Debug\net8.0\Ajedrez.pdb
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfoInputs.cache
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfo.cs
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.dll
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\refint\Ajedrez.dll
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.pdb
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\Ajedrez.genruntimeconfig.cache
+C:\Users\jrodr\Downloads\sdsfs\Ajedrez\Ajedrez\obj\Debug\net8.0\ref\Ajedrez.dll
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\bin\Debug\net8.0\Ajedrez.exe
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\bin\Debug\net8.0\Ajedrez.deps.json
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\bin\Debug\net8.0\Ajedrez.runtimeconfig.json
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\bin\Debug\net8.0\Ajedrez.dll
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\bin\Debug\net8.0\Ajedrez.pdb
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfoInputs.cache
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfo.cs
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.dll
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\refint\Ajedrez.dll
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.pdb
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\Ajedrez.genruntimeconfig.cache
+C:\Users\Valle\Downloads\Ajedrez (1)\Ajedrez\obj\Debug\net8.0\ref\Ajedrez.dll
